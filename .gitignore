@@ -1,0 +1,6 @@
+ 
+# ignored files below
+.DS_Store
+.ideas/
+.idea
+.idea*
