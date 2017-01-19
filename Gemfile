@@ -18,6 +18,9 @@ gem 'rack-cors', require: 'rack/cors'
 group :development, :test do
   gem 'pry'
   gem 'pry-byebug'
+  gem 'rspec-rails'
+  gem 'shoulda-matchers'
+  gem 'factory_girl_rails'
 end
 
 group :development do
